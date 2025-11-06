@@ -1,0 +1,14 @@
+langchain
+langchain-community
+langchain-openai
+openai
+faiss-cpu
+tiktoken
+PyPDF2
+networkx
+pgmpy
+torch
+python-dotenv
+matplotlib
+pygraphviz
+dotenv
